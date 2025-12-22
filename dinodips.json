@@ -82,7 +82,11 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
-						"chancetodrop": 0.95
+						"chancetodrop": 0.98
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
+						"chancetodrop": 0.98
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
