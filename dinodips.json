@@ -233,7 +233,7 @@
 					},
 					{
 						"dino": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
-						"chancetodrop": 0.6
+						"chancetodrop": 0.5
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
@@ -253,7 +253,7 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
-						"chancetodrop": 0.6
+						"chancetodrop": 0.5
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
