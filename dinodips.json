@@ -249,7 +249,7 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP_C",
-						"chancetodrop": 0.8
+						"chancetodrop": 0.6
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
@@ -289,7 +289,7 @@
 					}
 
 				],
-				"dipstogive": 6
+				"dipstogive": 4
 			},
 			{
 				"weekforoptions": [
