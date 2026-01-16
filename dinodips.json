@@ -368,11 +368,11 @@
 				"weekforoptions": [
 					{
 						"dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
-						"chancetodrop": 0.3
+						"chancetodrop": 0.7
 					},
 					{
 						"dino": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice_C",
-						"chancetodrop": 0.3
+						"chancetodrop": 0.7
 					},
 					{
 						"dino": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP_C",
@@ -380,7 +380,7 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
-						"chancetodrop": 0.4
+						"chancetodrop": 0.7
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP_C",
@@ -388,15 +388,15 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP_C",
-						"chancetodrop": 0.4
+						"chancetodrop": 0.1
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP_C",
-						"chancetodrop": 0.3
+						"chancetodrop": 0.2
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP_C",
-						"chancetodrop": 0.3
+						"chancetodrop": 0.4
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
