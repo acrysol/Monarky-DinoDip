@@ -462,31 +462,31 @@
 				"weekforoptions": [
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C",
-						"chancetodrop": 0.3
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
 						"chancetodrop": 0.2
 					},
 					{
+						"dino": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
+						"chancetodrop": 0.4
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
-						"chancetodrop": 0.25
+						"chancetodrop": 0.4
 					},
 					{
 						"dino": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
-						"chancetodrop": 0.3
+						"chancetodrop": 0.4
 					},
 					{
 						"dino": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C",
-						"chancetodrop": 0.3
+						"chancetodrop": 0.4
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
-						"chancetodrop": 0.3
+						"chancetodrop": 0.4
 					},
 					{
 						"dino": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed_C",
-						"chancetodrop": 0.4
+						"chancetodrop": 0.2
 					}
 				],
 				"dipstogive": 3
