@@ -9,11 +9,7 @@
 			"/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
 			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C",
 			"/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C",
-			"/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C"
+			"/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn_C"
 		],
 
 		"weeksarrays": [
@@ -143,27 +139,6 @@
 			{
 				"weekforoptions": [
 					{
-						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
-						"chancetodrop": 0.7
-					},
-					{
-						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
-						"chancetodrop": 0.7
-					},
-					{
-						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
-						"chancetodrop": 0.7
-					},
-					{
-						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
-						"chancetodrop": 0.7
-					}
-				],
-				"dipstogive": 2
-			},
-			{
-				"weekforoptions": [
-					{
 						"dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
 						"chancetodrop": 0.7
 					},
@@ -173,7 +148,7 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
-						"chancetodrop": 0.7
+						"chancetodrop": 0.8
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C",
@@ -181,7 +156,7 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
-						"chancetodrop": 0.1
+						"chancetodrop": 0.2
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP_C",
@@ -191,6 +166,7 @@
 						"dino": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP_C",
 						"chancetodrop": 0.5
 					}
+
 				],
 				"dipstogive": 3
 			},
