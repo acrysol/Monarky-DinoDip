@@ -143,6 +143,27 @@
 			{
 				"weekforoptions": [
 					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
+						"chancetodrop": 0.7
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
+						"chancetodrop": 0.7
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+						"chancetodrop": 0.7
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+						"chancetodrop": 0.7
+					}
+				],
+				"dipstogive": 2
+			},
+			{
+				"weekforoptions": [
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
 						"chancetodrop": 0.7
 					},
