@@ -148,7 +148,7 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
-						"chancetodrop": 0.8
+						"chancetodrop": 0.7
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C",
@@ -156,7 +156,7 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
-						"chancetodrop": 0.2
+						"chancetodrop": 0.1
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP_C",
@@ -166,7 +166,6 @@
 						"dino": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP_C",
 						"chancetodrop": 0.5
 					}
-
 				],
 				"dipstogive": 3
 			},
