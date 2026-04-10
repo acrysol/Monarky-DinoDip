@@ -118,8 +118,24 @@
 						"chancetodrop": 1
 					},
 					{
+						"dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP_Aberrant.Turtle_Character_BP_Aberrant_C",
+						"chancetodrop": 0.8
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP_Aberrant.Iguanodon_Character_BP_Aberrant_C",
+						"chancetodrop": 0.8
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP_Aberrant.Scorpion_Character_BP_Aberrant_C",
+						"chancetodrop": 0.8
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP_Aberrant.Doed_Character_BP_Aberrant_C",
-						"chancetodrop": 0.5
+						"chancetodrop": 1
 					}
 				],
 				"dipstogive": 3
